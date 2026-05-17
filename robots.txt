@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://crispro695.github.io/-mejora-masculina/sitemap.xml
